@@ -1,8 +1,23 @@
 Food-Delivery-Testing-Project
 │
 ├── ManualTesting
+│ ├── TestPlan
+│ ├── TestScenarios
+│ ├── TestCases
+│ ├── RTM
+│ ├── TestSummaryReport
+│
 ├── AutomationTesting
+│ ├── PageObjects
+│ ├── TestScripts
+│ ├── ConfigFiles
+│
 ├── API_Testing
+│ ├── Postman_Collections
+│
 ├── PerformanceTesting
+│ ├── JMeter_Scripts
+│
 ├── BugReports
 ├── Screenshots
+└── README.md
