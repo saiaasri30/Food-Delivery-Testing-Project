@@ -1,13 +1,6 @@
-ManualTesting
-│
-├── TestPlan
-├── TestScenarios
-├── TestCases
-├── RTM (Requirement Traceability Matrix)
-├── TestSummaryReport
-
 Test Plan:This project focuses on testing a food delivery web application.
- Scope of Testing              
+
+Scope of Testing              
 Login
 Search
 Cart
