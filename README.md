@@ -1,5 +1,4 @@
-# Food-Delivery-Testing-Project
-# 🍔 End-to-End Testing – Food Delivery Application
+# End-to-End Testing – Food Delivery Application
 
 ##  Project Overview
 This project focuses on performing **End-to-End Testing** of a Food Delivery Web Application. The testing covers multiple quality assurance aspects including Manual Testing, Automation Testing, API Testing, Performance Testing, and Basic Security Validation.
