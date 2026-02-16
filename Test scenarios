@@ -1,0 +1,102 @@
+Test Scenarios
+
+Login & Authentication Module
+
+Verify user can login with valid credentials
+Verify login with invalid password
+Verify login with invalid username
+Verify login with empty fields
+Verify error message for incorrect login
+Verify forgot password functionality
+Verify password reset link validity
+Verify account lock after multiple failed attempts
+Verify login using social media accounts
+Verify logout functionality
+
+Registration Module
+
+Verify user registration with valid details
+Verify registration with already registered email
+Verify mandatory field validations
+Verify password strength validation
+Verify mobile number validation
+Verify OTP verification process
+Verify registration with invalid email format
+
+Search & Browse Module
+
+Verify search for restaurant using valid keyword
+Verify search with invalid keyword
+Verify restaurant filtering by rating
+Verify restaurant filtering by location
+Verify sorting restaurants by price
+Verify restaurant menu loading
+Verify search suggestions display
+
+Cart Module
+
+Verify add item to cart
+Verify remove item from cart
+Verify quantity increase/decrease
+Verify cart updates total price correctly
+Verify cart item persistence after page refresh
+Verify adding items from multiple restaurants restriction
+Verify cart empty message
+
+Checkout Module
+
+Verify checkout with valid delivery address
+Verify checkout with invalid address
+Verify order summary display
+Verify promo code application
+Verify discount calculation
+Verify delivery charge calculation
+Verify order confirmation message
+
+Payment Module
+
+Verify payment using credit card
+Verify payment using debit card
+Verify payment using UPI
+Verify payment failure handling
+Verify payment cancellation
+Verify transaction success notification
+Verify payment retry option
+
+Order Tracking Module
+
+Verify order status updates
+Verify real-time delivery tracking
+Verify delivery agent details display
+Verify order cancellation before dispatch
+Verify order history availability
+
+User Profile Module
+
+Verify profile update functionality
+Verify change password option
+Verify address add/edit/delete
+Verify order history display
+Verify notification preferences
+
+Notification Module
+
+Verify order confirmation notification
+Verify delivery update notifications
+Verify promotional notifications
+Verify SMS/email notification delivery
+
+Performance & Usability Scenarios
+
+Verify app response under heavy traffic
+Verify page loading speed
+Verify UI responsiveness on different screen sizes
+Verify session timeout functionality
+
+Security Scenarios
+
+Verify session expiration after logout
+Verify unauthorized access restriction
+Verify password encryption
+Verify SQL injection prevention
+Verify secure payment processing
