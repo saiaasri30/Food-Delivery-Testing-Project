@@ -1,0 +1,13 @@
+AutomationTesting
+│
+├── page_objects
+│   ├── login_page.py
+│
+├── tests
+│   ├── test_login.py
+│
+├── config
+│   ├── config.py
+│
+├── requirements.txt
+├── README.md
